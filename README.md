@@ -31,4 +31,4 @@ ___
 ---
 
 
-<img src=Sistemas-Programables/Sesiones/Images/github1600.png width=30 height=30>[***Ir a mi perfil de Github.***](https://github.com/DianaHFer/)
+<img src=IMAGES/github1600.png width=30 height=30>[***Ir a mi perfil de Github.***](https://github.com/DianaHFer/)
