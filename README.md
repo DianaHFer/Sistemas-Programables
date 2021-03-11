@@ -26,6 +26,6 @@ ___
 
 ### ***ACTIVIDADES POR SESION.***
 ---
- ###  ⌛️[Sesion 10-MARZO,¡Qué sensores tiene su smarphone via APP?](https://github.com/DianaHFer/Sistemas-Programables/blob/main/Sesiones/Sesion10032021-Sensor-APP.md)
+ ###  ⌛️[Sesion 10-MARZO,¿Qué sensores tiene su smarphone via APP?](https://github.com/DianaHFer/Sistemas-Programables/blob/main/Sesiones/Sesion10032021-Sensor-APP.md)
 
 ---
